@@ -1,6 +1,6 @@
 # mybankaccount
 
-The web app I have built is a Banking system that includes User Signup/Login, Account, Transfer, Appointment, Transaction and User Profile.<br />
+The web app I have built is a Banking system that includes User Signup/Login, Account Debit Credit, Transfer, Transactions History and User Profile.<br />
 
 Front-end: Thymeleaf, Html/CSS, JavaScript, JQuery, Bootstrap, and some JS plugins<br />
 Back-end: Java, Spring Boot, Spring Data, Spring Security, Hibernate, MySQL
