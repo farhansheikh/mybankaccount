@@ -3,7 +3,7 @@
 The web app I have built is a Banking system that includes User Signup/Login, Account Debit Credit, Transfer, Transactions History and User Profile.<br />
 
 Front-end: Thymeleaf, Html/CSS, JavaScript, JQuery, Bootstrap, and some JS plugins<br />
-Back-end: Java, Spring Boot, Spring Data, Spring Security, Hibernate, MySQL
+Back-end: Java, Spring Boot, Spring MVC, Spring Security, Hibernate, MySQL
 
 I have used Spring Boot to quickly prototype the web app<br />
 I have developed domain classes to model the business entities<br />
